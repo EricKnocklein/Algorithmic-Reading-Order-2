@@ -1,6 +1,6 @@
 <h1>Algorithmic Reading Order 2 Code</h1>
 
-This repository houses the code written during the creation of <a href="https://youtu.be/yHq_WdITkms"> This Video </a>, the second in a series of videos about using graph algorithms to organize a wiki. By considering links as edges of the graph and articles as nodes, we can use graph theory to better organize the wiki. The video discusses how the indegree and outdegree information can be used to create an order from a graph.
+This repository houses the code written during the creation of <a href="https://youtu.be/nav-5TD5G9M"> This Video </a>, the second in a series of videos about using graph algorithms to organize a wiki. By considering links as edges of the graph and articles as nodes, we can use graph theory to better organize the wiki. The video discusses how the indegree and outdegree information can be used to create an order from a graph.
 
 <h3>Files</h3>
 
